@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python-original.svg"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
+
+- name: Django
+  logo: "/images/sections/skills/django-original.svg"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://golang.org/"
+
+- name: Jenkins
+  logo: "/images/sections/skills/jenkins-original.svg"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Cloud Computing
+#   # logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+

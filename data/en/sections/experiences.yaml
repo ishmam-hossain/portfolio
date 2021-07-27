@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Cefalo AS.
+    url: "https://www.cefalo.com"
+    location: Dhaka, Bangladesh
+    # company overview
+    overview: Cefalo is arguably one of the best software companies in Bangladesh giving offshore support to European clients.
+  positions:
+  - designation: Software Engineer
+    start: Jun 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Gather & Process data.
+    - Design, develop features for Volue Insight.
+    - Design and develop a generic data crawler.
+
+- company:
+    name: Strativ AB.
+    url: "https://www.strativ.se"
+    location: Dhaka, Bangladesh
+    overview: Strativ is Swedish company which is giving support to European clients specially Swedish clients.
+  positions:
+  - designation: Software Engineer
+    start: May 2020
+    end: Jun 2021
+    responsibilities:
+    - Led ProBITS project.
+    - Worked on Legalroom by Freja Partner.
+    - Worked on Vacci as the main backend engineer.
+    - Led couple of internal projects.
+
+- company:
+    name: Monico Technologies(aka Finder GPS Tracking Service).
+    url: "https://www.finder-lbs.com"
+    location: Dhaka, Bangladesh
+    overview: Finder is a very renound company in Bangladesh and been providing vehicle tracking service for more than a decade.
+
+  positions:
+  - designation: Software Developer
+    start: Jan 2019
+    end: May 2020
+    responsibilities:
+    - Asynchronus server for IoT devices.
+    - Worked on Truck Kothay.
+    - Worked on Kothat Map.
+  
+  - designation: Jr. Software Developer
+    start: May 2018
+    end: Dec 2018
+    responsibilities:
+    - Study.
+    - Learn.
+    - Implement.

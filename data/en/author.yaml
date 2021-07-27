@@ -1,0 +1,20 @@
+# some information about you
+name: "Ishmam Hossain"
+nickname: "Ishmam"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/avatar.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ishmam.dev@gmail.com"
+  phone: "+88016-81646893"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Devops
+  - I love Music
+  - I love Photography
+  - I work on open-source projects
+  - I love to work with some fun projects
+

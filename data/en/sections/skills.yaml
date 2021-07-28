@@ -13,39 +13,37 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python-original.svg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "I Have worked extensively with Python and have expertise in multiple domains. From different web frameworks to asynchronous programming, I've worked with quite a few technologies based on Python"
 
 - name: Django
   logo: "/images/sections/skills/django-original.svg"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "I've worked on Django professionally for 1+ years and have done some pretty advanced projects."
 
-- name: Jenkins
-  logo: "/images/sections/skills/jenkins-original.svg"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Git
+  logo: "/images/sections/skills/git-original.svg"
+  summary: "Using git as the main version control system for more than 3 years now."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: React
+  logo: "/images/sections/skills/react-original.svg"
+  summary: "I have had some exposure to React. Made a couple of small projects."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: PostgreSQL
+  logo: "/images/sections/skills/postgresql-original.svg"
+  summary: "I have used PostgreSQL for a number of projects as the main database."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: MongoDB
+  logo: "/images/sections/skills/mongodb-original.svg"
+  summary: "Worked with MongoDB to store large number of data and retrieve them for REST APIs."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Redis
+  logo: "/images/sections/skills/redis-original.svg"
+  summary: "Used Redis as a chache database in number of projects. I'm a big fan of manual caching."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: JQuery
+  logo: "/images/sections/skills/jquery-original.svg"
+  summary: "Used jQuery for a couple of projects."
 
-# - name: Cloud Computing
-#   # logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Nginx
+  logo: "/images/sections/skills/nginx-original.svg"
+  summary: "Dedicated Nginx user when it comes to Proxy/Load balancing."
 

@@ -11,7 +11,7 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Cefalo AS
+  name: Cefalo
   url: "https://www.cefalo.com"
 
 
@@ -19,7 +19,9 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 3+ years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 3+ years of working experience. 
+          I have been working with Python and other languages in my professional life.
+          I love trekking, photography, music.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -34,15 +36,15 @@ socialLinks:
 
 - name: Stack Overflow
   icon: "fab fa-stack-overflow"
-  url: "https://www.github.com/ishmam-hossain"
+  url: "https://stackoverflow.com/users/9907570/ishmam"
 
 - name: Linked-In
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ishmam-hossain/"
 
 - name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://www.github.com/ishmam-hossain"
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/ishmam.tonmoy"
 
 
 # your soft skills
@@ -58,3 +60,12 @@ softSkills:
 - name: Communication
   percentage: 95
   color: orange
+- name: Avid Learner
+  percentage: 90
+  color: 
+- name: Polyglot
+  percentage: 75
+  color: pink
+- name: Tech Enthusiast
+  percentage: 100
+  color: green

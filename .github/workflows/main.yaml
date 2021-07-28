@@ -31,4 +31,4 @@ jobs:
           user_name: ishmam-hossain
           user_email: ishmam.hossain101111@gmail.com
           publish_branch: main
-        #   cname: example.com
+          cname: ishmam.one

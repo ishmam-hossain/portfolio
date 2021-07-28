@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Cefalo AS.
+    name: Cefalo
     url: "https://www.cefalo.com"
     location: Dhaka, Bangladesh
     # company overview
@@ -25,42 +25,37 @@ experiences:
     responsibilities:
     - Gather & Process data.
     - Design, develop features for Volue Insight.
+    - Make improvements to existing internal packages used throughout the system.
     - Design and develop a generic data crawler.
 
 - company:
-    name: Strativ AB.
+    name: Strativ
     url: "https://www.strativ.se"
     location: Dhaka, Bangladesh
-    overview: Strativ is Swedish company which is giving support to European clients specially Swedish clients.
+    overview: Strativ is a Swedish company giving support to European clients, specially Swedish clients.
   positions:
   - designation: Software Engineer
     start: May 2020
     end: Jun 2021
     responsibilities:
-    - Led ProBITS project.
-    - Worked on Legalroom by Freja Partner.
-    - Worked on Vacci as the main backend engineer.
+    - Led the ProBITS team, a research project on **behavioral informatics** by two Professor's of **Umeå University, Sweden**.
+    - Worked on [Legalroom](https://legalroom.se/) by Freja Partner.
+    - Worked on [Vacci](https://vacci.se/) as the main backend engineer.
     - Led couple of internal projects.
 
 - company:
     name: Monico Technologies(aka Finder GPS Tracking Service).
     url: "https://www.finder-lbs.com"
     location: Dhaka, Bangladesh
-    overview: Finder is a very renound company in Bangladesh and been providing vehicle tracking service for more than a decade.
+    overview: Finder is a very renowned company in Bangladesh and have been providing vehicle tracking service for more than a decade.
 
   positions:
   - designation: Software Developer
-    start: Jan 2019
+    start: May 2018
     end: May 2020
     responsibilities:
-    - Asynchronus server for IoT devices.
-    - Worked on Truck Kothay.
-    - Worked on Kothat Map.
-  
-  - designation: Jr. Software Developer
-    start: May 2018
-    end: Dec 2018
-    responsibilities:
-    - Study.
-    - Learn.
-    - Implement.
+    - Worked on [Finder](https://www.finder-lbs.com/) backend.
+    - Write Asynchronous server for IoT devices.
+    - Worked on [Truck Kothay](http://truck.kothay.com/) backend.
+    - Worked on data & processing heavy report generation.
+

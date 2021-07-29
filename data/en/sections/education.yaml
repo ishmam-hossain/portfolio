@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+degrees:
+- name: Bachelor of Science in Computer Science & Engineering
+  icon: '/assets/github-original.svg'
+
+  institution: 
+    url: https://www.aust.edu/
+    name: Ahsanullah University of Science & Technology
+
+  timeframe: 2013-2018
+
+  publications:
+    - title: A noble color-texture hybrid method for content-based image retrieval
+      url : https://ieeexplore.ieee.org/document/8281841
+  
+  takenCourses:
+    courses:
+      - name: Artificial Intelligence
+      - name: Distributed Database Systems
+      - name: Computer Graphics
+      - name: Formal Languages & Compilers
+      - name: Information System Design and Software Engineering
+      - name: Microcontroller Based System Design
+      - name: Operating System
+      - name: Data Communication
+      - name: Digital System Design
+      - name: Microprocessors
+      - name: Database
+      - name: Mathematical Analysis for Computer Science
+      - name: Assembly Language Programming
+      - name: Computer Architecture
+      - name: Digital Electronics and Pulse Techniques
+      - name: Algorithms
+      - name: Numerical Methods
+      - name: Digital Logic Design
+      - name: Data Structures
+      - name: Object Oriented Programming
+      - name: Elementary Structured Programming
+      - name: Introduction to Computer Systems
+      - name: Electronic Devices & Circuits
+      - name: Basic Electrical Engineering
+      - name: Basic Mechanical Engineering
+      - name: Mathematics- IV
+      - name: Mathematics-III
+      - name: Mathematics- II
+      - name: Mathematics- I
+      - name: Chemistry
+      - name: Physics
+      - name: Society, Ethics and Technology
+
+
+
+- name: Higher Secondary Certificate
+  institution: 
+    url: https://www.noormohammadcollege.ac.bd/
+    name: Bir Shreshtha Noor Mohammad Public College
+  timeframe: 2010-2012
+
+- name: Secondary School Certificate
+  institution: 
+    url: https://www.noormohammadcollege.ac.bd/
+    name: Kaliganj R.R.N. Pilot Government High School
+  timeframe: 2008-2010
